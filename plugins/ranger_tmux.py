@@ -1,0 +1,1 @@
+/Users/joshpeterson/.pyenv/versions/3.11.4/lib/python3.11/site-packages/ranger_tmux/plugin.py
